@@ -21,7 +21,7 @@ how attacks (and the tools that find them) actually work under the hood.
 
 ## 🛠️ Skills / tools I've been using
 
-`Python` · `Nmap` · `Burp Suite` · `Linux` · `Bash` · `Metasploit` · `Wireshark`
+`Python` · `Nmap` · `Burp Suite` · `Linux` · `Bash` · `Metasploit` · `Wireshark` . `nikto` . `sqlmap` . `gobuster` . `SET` . `hydra` . `OSINT` . `nuclei` . `nessus` . `sql injection`
 
 <!-- Trim the list above to only tools you've actually used hands-on. -->
 
